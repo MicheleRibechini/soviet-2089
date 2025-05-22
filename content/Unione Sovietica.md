@@ -1,1 +1,0 @@
-Tipica per la costruzioni di [[Pentagrad]].
