@@ -1,8 +1,0 @@
-site_name: Soviet-2089 Site
-theme:
-  name: material
-nav:
-  - Home: home.md
-  - Argomenti: argomenti.md
-  - Altro:
-      - Dettaglio: sottocartella/altro.md
