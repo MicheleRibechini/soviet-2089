@@ -1,5 +1,5 @@
 obsidian_folder_path_str: './Soviet-2089'
-obsidian_entrypoint_path_str: './Soviet-2089/Home.md'
+obsidian_entrypoint_path_str: './Soviet-2089/index.md'
 html_output_folder_path_str: './site'
 site_name: 'Soviet-2089 Wiki'
 toggles:

@@ -1,7 +1,0 @@
-html_output_folder_path_str: ./site
-obsidian_entrypoint_path_str: ./Soviet-2089/Home.md
-obsidian_folder_path_str: ./Soviet-2089
-site_name: Soviet-2089 Wiki
-toggles:
-  compile_html: true
-  compile_md: true
