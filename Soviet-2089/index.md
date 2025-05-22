@@ -1,9 +1,11 @@
 # Welcome to Sovietpunk
 
 ---------------------------------------------
+Want to visit [[Welcome!]] ?
 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
 
 ## Commands
 

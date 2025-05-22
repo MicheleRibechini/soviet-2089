@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "84df3f4a00c2bd47",
+    "id": "8bbff8bdfd677022",
     "type": "split",
     "children": [
       {
-        "id": "bd46a138297497ca",
+        "id": "91beaf0f7bff1194",
         "type": "tabs",
         "children": [
           {
-            "id": "ee36d8e6a08043a8",
+            "id": "f67518a211faf5b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f47a50b34d02ead1",
+    "id": "134033f16df968c0",
     "type": "split",
     "children": [
       {
-        "id": "3569b9f469ae19d3",
+        "id": "87269d57046aad1b",
         "type": "tabs",
         "children": [
           {
-            "id": "5db4fff0d63ff84c",
+            "id": "c57c90b5e39b797d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "dcef848567e7768e",
+            "id": "0fad7729b39bbf5d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d509adc70fa470f7",
+            "id": "69a78c64b9cc0e71",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "4081a14f5a037a83",
+    "id": "32bc96ed4b9e9af4",
     "type": "split",
     "children": [
       {
-        "id": "c9e919cbe8b15a70",
+        "id": "2017d5ac3c450acc",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2dd85ad30aa26c",
+            "id": "891264ff58648ff2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome!"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e5a98429d63d0f14",
+            "id": "0fe3010b52686440",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome!"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "330101edaa4c7fe8",
+            "id": "d0c9de66429f86a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,18 +135,17 @@
             }
           },
           {
-            "id": "eab3cee32c4ef601",
+            "id": "daff78d87158ade2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome!"
+              "title": "Outline"
             }
           }
         ]
@@ -161,12 +162,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ee36d8e6a08043a8",
+  "active": "f67518a211faf5b0",
   "lastOpenFiles": [
-    "Welcome!.md"
+    "Welcome!.md",
+    "index.md"
   ]
 }
