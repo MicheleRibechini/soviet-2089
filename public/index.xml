@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to Quartz 4</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites.</description>
+    <pubDate>Thu, 22 May 2025 17:47:16 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/Soviet-2089/</link>
+    <guid>https://quartz.jzhao.xyz/Soviet-2089/</guid>
+    <description>Benvenuto nella mia Wiki Soviet-2089 Questa è la homepage del mio sito generato con Quartz!.</description>
+    <pubDate>Thu, 22 May 2025 15:30:52 GMT</pubDate>
+  </item><item>
+    <title>Setting up your GitHub repository</title>
+    <link>https://quartz.jzhao.xyz/setting-up-your-GitHub-repository</link>
+    <guid>https://quartz.jzhao.xyz/setting-up-your-GitHub-repository</guid>
+    <description>First, make sure you have Quartz cloned and setup locally. Then, create a new repository on GitHub.com.</description>
+    <pubDate>Tue, 29 Apr 2025 16:55:15 GMT</pubDate>
+  </item><item>
+    <title>Favicon</title>
+    <link>https://quartz.jzhao.xyz/plugins/Favicon</link>
+    <guid>https://quartz.jzhao.xyz/plugins/Favicon</guid>
+    <description>This plugin emits a favicon.ico into the public folder. It creates the favicon from icon.png located in the quartz/static folder.</description>
+    <pubDate>Tue, 29 Apr 2025 05:00:28 GMT</pubDate>
+  </item><item>
+    <title>Reader Mode</title>
+    <link>https://quartz.jzhao.xyz/features/reader-mode</link>
+    <guid>https://quartz.jzhao.xyz/features/reader-mode</guid>
+    <description>Reader Mode is a feature that allows users to focus on the content by hiding the sidebars and other UI elements.</description>
+    <pubDate>Fri, 18 Apr 2025 02:45:17 GMT</pubDate>
+  </item><item>
+    <title>Explorer</title>
+    <link>https://quartz.jzhao.xyz/features/explorer</link>
+    <guid>https://quartz.jzhao.xyz/features/explorer</guid>
+    <description>Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.</description>
+    <pubDate>Fri, 04 Apr 2025 16:50:01 GMT</pubDate>
+  </item><item>
+    <title>Higher-Order Layout Components</title>
+    <link>https://quartz.jzhao.xyz/layout-components</link>
+    <guid>https://quartz.jzhao.xyz/layout-components</guid>
+    <description>Quartz provides several higher-order components that help with layout composition and responsive design.</description>
+    <pubDate>Wed, 26 Mar 2025 15:32:13 GMT</pubDate>
+  </item><item>
+    <title>Breadcrumbs</title>
+    <link>https://quartz.jzhao.xyz/features/breadcrumbs</link>
+    <guid>https://quartz.jzhao.xyz/features/breadcrumbs</guid>
+    <description>Breadcrumbs provide a way to navigate a hierarchy of pages within your site using a list of its parent folders.</description>
+    <pubDate>Wed, 26 Mar 2025 15:32:13 GMT</pubDate>
+  </item><item>
+    <title>Custom OG Images</title>
+    <link>https://quartz.jzhao.xyz/plugins/CustomOgImages</link>
+    <guid>https://quartz.jzhao.xyz/plugins/CustomOgImages</guid>
+    <description>The Custom OG Images emitter plugin generates social media preview images for your pages.</description>
+    <pubDate>Fri, 21 Mar 2025 23:49:56 GMT</pubDate>
+  </item><item>
+    <title>Configuration</title>
+    <link>https://quartz.jzhao.xyz/configuration</link>
+    <guid>https://quartz.jzhao.xyz/configuration</guid>
+    <description>Quartz is meant to be extremely configurable, even if you don’t know any coding.</description>
+    <pubDate>Wed, 19 Mar 2025 04:43:32 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
