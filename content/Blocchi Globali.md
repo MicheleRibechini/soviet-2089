@@ -50,6 +50,7 @@ Il Blocco Nero annovera
 - India
 - Israele
 - Giappone
+- Corea del Sud
 
 Tra questi, soffrono moti rivoluzionari interni
 - USA: in piena guerra civile da dieci anni, capeggiata da leader liberale [[Jude Evans]]
@@ -57,13 +58,13 @@ Tra questi, soffrono moti rivoluzionari interni
 - India: lotta armata sotto il comando della segretaria del Partito Comunista Indiano, [[Lata Pathak]]
 
 ## Blocco Verde
-I Paesi che non hanno espresso politicamente distanza dal CSE, rimanendone partner commerciali e conservando un modello politico di tipo liberale o socialdemocratico, adottando politiche di welfare e tutela ambientale, quindi considerati parte del cosiddetto **"Blocco Verde"**, sono
+Il Blocco Verde comprende i Paesi che non hanno rotto definitivamente i rapporti con gli altri due Blocchi, rimanendone partner commerciali, ovvero
 
-- Canada
-- Messico
-- Norvegia
-- Svezia
-- Finlandia
-- Danimarca
+- Canada (preoccupato dall'espansionismo statunitense)
+- Messico (preoccupato dall'espansionismo statunitense)
+- Norvegia (preoccupata dall'espansionismo del Blocco Nero)
+- Danimarca (preoccupata dall'espansionismo del Blocco Nero)
+- Svezia (preoccupata dall'espansionismo del Blocco Rosso)
+- Finlandia (preoccupata dall'espansionismo del Blocco Rosso)
 - Australia
 - Regioni statunitensi liberate (US Freedom Lands)
