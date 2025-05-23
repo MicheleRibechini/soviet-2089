@@ -8,6 +8,12 @@ TD
 - [ ] Come si sono sviluppate?
 - [ ] A cosa servono di solito?
 - [ ] Ora come sono?
+
+- **Avamposti militari** dotati di **difese antimissile e antiatomiche**, pronti a resistere a un attacco su larga scala.
+    
+- **Bunker per civili e soldati**, pensati per accogliere la popolazione in caso di conflitto.
+    
+- **Centri di ricerca avanzata**, dedicati allo sviluppo di tecnologie militari e sociali.
 # Esempi famosi
 TD
 

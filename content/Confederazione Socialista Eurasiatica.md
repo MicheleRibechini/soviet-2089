@@ -10,72 +10,132 @@ Il governo della CSE combina elementi di controllo statale e libertà economica,
 Nel 2089, la Confederazione celebra il **centenario della Crisi del 1989**, l'evento che portò alla riforma del sistema sovietico e alla nascita della CSE. Il governo ha organizzato commemorazioni per sottolineare il successo del modello socialista eurasiatico e la stabilità garantita dalle riforme di quel periodo. Contestualmente, si avviano i preparativi per il **bicentenario della Rivoluzione d’Ottobre**, previsto per il 2117, con l'obiettivo di riaffermare la continuità del sistema. Tuttavia, le tensioni indipendentiste nelle regioni occidentali alimentano il dibattito sul futuro della Confederazione.
 # Storia
 
-#### Origini e sviluppo iniziale (1917-1988)
+## Origini e sviluppo iniziale (1917-1988)
 
 La **Confederazione Socialista Eurasiatica (CSE)** affonda le sue radici nella **Rivoluzione d’Ottobre del 1917**, che portò alla creazione di uno stato socialista nell’ex Impero Russo. Nel XX secolo, la CSE (all’epoca Unione Sovietica) si affermò come una delle principali potenze mondiali, con un’economia pianificata e un forte controllo statale.
 
 Dopo la **Seconda Guerra Mondiale**, la CSE consolidò il proprio predominio sull’Europa orientale e l’Asia, ma le tensioni economiche e sociali iniziarono a crescere, culminando nella **crisi del 1989**.
 
-#### Crisi del 1989 e nascita della CSE (1989-1991)
+## Crisi del 1989 e nascita della CSE (1989-1991)
 
 Alla fine degli anni ’80, l’Unione Sovietica affrontò una fase critica con il crollo del **Muro di Berlino** e le proteste di **Piazza Tiananmen** in Cina. Mentre Pechino consolidava il proprio governo con una risposta autoritaria, Mosca si trovò a gestire il rischio di disgregazione del sistema sovietico.
 
 Il presidente **Michail Gorbačëv** avviò un piano di riforme politiche ed economiche, ma fu **Boris El'zin**, con un approccio più pragmatico, a delineare la trasformazione istituzionale che avrebbe permesso alla Russia di evitare il collasso. Conscia della sua fragilità economica e politica, la Russia negoziò **un patto strategico con la Cina**, cedendo parte della leadership alla potenza asiatica in cambio di stabilità e investimenti tecnologici.
 
 Nel 1991, venne ufficialmente fondata la **Confederazione Socialista Eurasiatica (CSE)**, un’alleanza politica ed economica tra le ex repubbliche sovietiche e la Cina. **La Russia mantenne un ruolo attivo nella creazione della Confederazione**, pur accettando di condividere il potere con Pechino per garantire la sopravvivenza del blocco socialista.
+## Riforme economiche e ripresa russa (1992-2060)
 
-#### Riforme economiche e ripresa russa (2000-2060)
+Nei primi decenni del XXI secolo, la Cina consolidò la sua guida sulla **Confederazione Socialista Eurasiatica (CSE)**, mentre la Russia, uscita dalla crisi post-1989, attraversava un periodo di instabilità. Con la progressiva **apertura al mercato**, la CSE sembrò perdere la sua immagine di blocco socialista monolitico, favorendo un’economia **semi-aperta** regolata dallo Stato. 
 
-Nei primi decenni del XXI secolo, la Cina assunse un ruolo centrale nella governance della CSE, favorendo lo sviluppo di un modello **socialista di mercato**. La Russia, inizialmente indebolita dalla crisi post-1989, attraversò un lungo periodo di instabilità economica e politica, con profonde ristrutturazioni interne.
+Dal **2008 al 2020**, l’Occidente fu devastato da **crisi finanziarie sempre più profonde**. Il sistema capitalistico entrò in una spirale di instabilità, favorendo la diffusione di **movimenti socialisti e comunisti** in Europa e nelle Americhe. Il governo della CSE osservò la crescita di questi movimenti con cautela, cercando di sfruttare la situazione senza prendere posizioni dirette.
 
-Grazie a una serie di **riforme strutturali e investimenti nelle tecnologie digitali**, la Russia riuscì gradualmente a riequilibrare la propria posizione. Nel 2017, il **centenario della Rivoluzione d’Ottobre** fu celebrato con il lancio di [[SovSet]], una piattaforma digitale che integrava servizi finanziari, amministrativi e sociali.
+Nel **2017**, il **centenario della Rivoluzione d’Ottobre** segnò un punto di svolta: fu lanciata la piattaforma **[[SovSet]]**, un ecosistema digitale che integrava finanza, commercio e amministrazione, automatizzando la società sotto il controllo del Partito. Nel **2060**, la Russia era tornata a un livello di competitività quasi pari alla Cina, pur riconoscendo la preminenza strategica di Pechino. **Il delicato equilibrio tra il modello autoritario cinese e le riforme russe** definiva la governance della Confederazione, mantenendo una stabilità sempre più fragile.
 
-Nel 2060, la Russia era tornata a un livello di competitività quasi pari a quello della Cina, pur riconoscendo la preminenza strategica di Pechino all’interno della Confederazione. Il governo della CSE mantenne un delicato equilibrio tra il **modello autoritario cinese** e le riforme russe, cercando di evitare crisi interne.
+## Tensioni e militarizzazione della CSE (2060-2089)
 
-#### Tensioni e celebrazioni del centenario (2060-2089)
+Con l’espansione dei movimenti socialisti nelle nazioni capitaliste, i governi occidentali reagirono con **militarizzazione e repressione**. Il **[[Blocchi Globali|blocco fascista]]**, **aumentò la presenza di basi NATO**, intensificò il controllo sociale e represse violentemente le rivolte. 
 
-Nel 2089, la CSE è governata da un **duopolio strategico**, con la Cina ancora dominante ma con la Russia tornata a essere una delle principali potenze. Nonostante la stabilità apparente, le **spinte indipendentiste** nelle regioni occidentali della Confederazione preoccupano i vertici di governo.
+La CSE, sentendosi minacciata da questa escalation, rispose con **[[Pentagrad]]**, una rete di **città-fortezze** posizionate strategicamente ai confini.
 
-Oltre alle celebrazioni per il **centenario della crisi del 1989**, che secondo la narrazione del [[Partito Comunista|Partito]] o è stata spunto di rinascita dell'Unione nel CSE, il governo ha avviato con largo anticipo i preparativi per il **bicentenario della Rivoluzione d’Ottobre**, previsto per **2117**. L’evento, che si terrà a **Leningrado** e durerà un mese, sarà un **festival internazionale della rivoluzione** con **installazioni interattive, gallerie d’arte, mostre storiche e concerti**, celebrando gli ideali bolscevichi e il ruolo della CSE nella trasformazione tecnologica del socialismo.
+Le Pentagrad divennero i **nodi chiave della difesa sovietica**, trasformandosi in veri e propri **baluardi del socialismo tecnologico**.
 
-Nonostante la volontà governativa di consolidare il sistema attraverso queste celebrazioni, alcuni osservatori internazionali evidenziano le crescenti tensioni regionali, suggerendo che il 2089 potrebbe segnare una nuova fase di instabilità interna. Tuttavia, la leadership della CSE continua a promuovere il **socialismo tecnologico** come modello di riferimento, ponendo la stabilità e l'interconnessione come pilastri per il futuro della Confederazione.
+## Il centenario della crisi del 1989 e l’incertezza globale (2089)
+
+Con il **centenario della crisi del 1989**, il Partito ne celebra la narrazione ufficiale: la crisi fu **l'inizio della rinascita dell’URSS nel CSE**, il momento in cui l’Unione evitò il collasso totale e si trasformò in una superpotenza ipertecnologica. Tuttavia, le tensioni interne minacciano la stabilità: **movimenti indipendentisti** si agitano nelle regioni occidentali, mentre la situazione globale è sempre più instabile.
+
+Intanto, il governo ha avviato **con largo anticipo** i preparativi per il **bicentenario della Rivoluzione d’Ottobre** (2117), che si terrà a **Leningrado**: un mese di celebrazioni internazionali, con installazioni interattive, gallerie d’arte e concerti, mostre storiche e conferenze, enfatizzando la continuità del socialismo e la trasformazione digitale del Partito, per riaffermare la legittimità della CSE come erede del socialismo globale.
+
+Nonostante la volontà governativa di consolidare la Confederazione attraverso queste celebrazioni, molti osservatori evidenziano le **crepe nel sistema**: il 2089 potrebbe **marcare l’inizio di una nuova fase di instabilità**, mentre la leadership della CSE continua a promuovere il **socialismo tecnologico** come unica alternativa al declino del capitalismo.
 
 # Membri del CSE
+Ad oggi si annoverano tra i Paesi socialisti membri della Confederazione
 
-Russia, Cina, Bielorussia, Ucraina, Kazakhstan, Uzbekistan, Turkmenistan, Kirghizistan, Tagikistan, Mongolia, Vietnam, Laos, Cambogia, Pakistan, Iran, Corea del Nord, Algeria, Sudan, Etiopia, Angola, Repubblica Democratica del Congo.
+- Russia
+- Cina
+- Bielorussia
+- Ucraina
+- Kazakhstan
+- Uzbekistan
+- Turkmenistan
+- Kirghizistan
+- Tagikistan
+- Mongolia
+- Vietnam
+- Laos
+- Cambogia
+- Pakistan
+- Iran
+- Corea del Nord
+- Algeria
+- Sudan
+- Etiopia
+- Angola
+- Repubblica Democratica del Congo
 #### Alleati esterni
-Gli alleati esterni del CSE, ovvero i Paesi di stampo socialista tecnicamente indipendenti dalla Confederazione ma comunque considerati parte del **Blocco Rosso**, sono
+Gli alleati esterni del CSE, ovvero i Paesi di stampo socialista tecnicamente indipendenti dalla Confederazione ma comunque considerati parte del **[[Blocchi Globali|Blocco Rosso]]**, sono
 - Cuba
 - Venezuela
 - Nicaragua
 - Bolivia
+# Governo
 
-#### Rivali politici
-I rivali politici del CSE, ovvero i Paesi di stampo anticomunista, tendenzialmente nazionalisti, militaristi, espansionisti e autoritari e che hanno adottato forme di governo di tipo neofasciste, quindi considerati uniti nel cosiddetto **"Blocco Nero"**, sono
+## Governo e Partito nella CSE
 
-- USA
-- Germania
-- Italia
-- Francia
-- Polonia
-- Ungheria
-- India
-- Israele
-- Giappone
+La **Confederazione Socialista Eurasiatica (CSE)** mantiene una **struttura politico-amministrativa fortemente integrata** tra il **Partito Comunista della CSE** e gli **organi di governo**. Sebbene la Cina abbia la leadership strategica e la Russia abbia riguadagnato influenza economica e tecnologica, la governance è regolata da un **modello digitale avanzato**, gestito da **[[SovSet]]**, che permette un **controllo costante delle istituzioni e della volontà popolare**.
 
-Tra questi, soffrono moti rivoluzionari interni
-- USA: in piena guerra civile da dieci anni, capeggiata da leader liberale [[Jude Evans]]
-- Francia: vige la lotta partigiana da vent'anni, non è sorto un leader
-- India: lotta armata sotto il comando della segretaria del Partito Comunista Indiano, [[Lata Pathak]]
+## Autonomia degli Stati Membri
 
-#### Partner commerciali
-I Paesi che non hanno espresso politicamente distanza dal CSE, rimanendone partner commerciali e conservando un modello politico di tipo liberale o socialdemocratico, adottando politiche di welfare e tutela ambientale, quindi considerati parte del cosiddetto **"Blocco Verde"**, sono
+- Ogni Stato membro della CSE mantiene la capacità di autodeterminarsi, potendo modificare la propria struttura politica ed economica.
+- Qualsiasi cambiamento strutturale deve ricevere il benestare del [[Partito Comunista della Confederazione Socialista Eurasiatica|Partito]], che garantisce la coerenza con i principi socialisti e la stabilità confederale.
 
-- Canada
-- Messico
-- Norvegia
-- Svezia
-- Finlandia
-- Danimarca
-- Australia
-- Regioni statunitensi liberate (US Freedom Lands)
+## Organi Confederali
+
+### Consiglio Supremo (Legislativo)
+Composto dal Comitato Centrale del Partito e dal Consiglio Federale (rappresentanza degli Stati membri). Ratifica, promuove ed emana leggi confederali.
+Le proposte di legge possono essere interne (dai membri del Consiglio Supremo) o esterne (vedi approfondimento su SovSet).
+### Segretario Generale (Esecutivo)
+Nominato dal Comitato Centrale del Partito, capo del governo confederale, attua le decisioni legislative e dirige l’apparato esecutivo.
+### Corte Suprema (Giudiziario)
+Interpreta la legge confederale, risolve le controversie tra Stati membri, garantisce la conformità costituzionale.
+#### Altri Organismi
+
+- **Ministero Sicurezza di Stato (MSS)**: diplomazia, intelligence, spionaggio, controspionaggio.
+- **Ministero Pubblica Sicurezza (MPS)**: sicurezza interna, ordine pubblico, prevenzione e repressione di crimini e dissenso.
+- **SovSet**: Piattaforma digitale integrata per l’amministrazione pubblica, la partecipazione politica e il controllo sociale. Gestisce consultazioni, proposte di legge e raccolta dati.
+
+## KonMass
+Uno degli strumenti dell'espressione della volontà popolare è il KonMass (letteralmente Consultazione delle Masse) che prevede l'utilizzo della piattaforma SovSet per proporre dal basso modifiche alla struttura del CSE. Il funzionamento è il seguente
+
+1. **Iniziativa Popolare**: ogni cittadino della CSE può proporre una nuova legge o una modifica normativa attraverso SovSet. Il sistema applica un algoritmo di controllo per verificare che la proposta non vada contro ai principi socialisti del CSE. Le proposte vengono pubblicate e rese visibili a tutti gli utenti della piattaforma. 
+2. **Raccolta Consensi**: le proposte devono raggiungere la soglia minima di consenso dello 0,01% delle popolazione totale della Confederazione entro 6 mesi dall'inizio della proposta, per essere prese in considerazione. Autenticando il proprio profilo è possibile esprimere il voto in maniera anonima.
+3. **Valutazione e Votazione**: il Consiglio Supremo discute e vota le proposte ammesse. Il Partito mantiene il diritto di veto sulle proposte ritenute incompatibili con la linea confederale o la sicurezza dello Stato.
+4. **Promulgazione**: le leggi approvate vengono promulgate dal Segretario Generale e pubblicate su SovSet per la consultazione pubblica.
+
+| Potere         | Organo Principale   | Funzione Chiave                                            | Organizzazione/Note                         |
+| -------------- | ------------------- | ---------------------------------------------------------- | ------------------------------------------- |
+| Legislativo    | Consiglio Supremo   | Emana e promuove leggi confederali                         | Comitato Centrale + Consiglio Federale      |
+| Esecutivo      | Segretario Generale | Attua le decisioni legislative, dirige il governo          | Nominato dal Comitato Centrale              |
+| Giudiziario    | Corte Suprema       | Interpreta la legge, risolve controversie tra Stati membri | Organo indipendente ma vigilato dal Partito |
+| Sicurezza      | MSS / MPS           | Sicurezza esterna/interna, intelligence, ordine pubblico   | Ministeri specializzati                     |
+| Partecipazione | KonMass (SovSet)    | Consultazioni, proposte di legge, amministrazione digitale | Piattaforma digitale confederale SovSet     |
+# Economia
+
+La **CSE** ha adottato un sistema di **socialismo tecnologico avanzato**, con un’economia **semi-aperta** e fortemente regolata dallo Stato. Il modello economico si basa su tre pilastri: **automazione industriale, commercio strategico e controllo governativo sulla produzione privata**.
+
+## Struttura Economica
+
+- **Industria automatizzata** – L’economia della CSE è altamente digitalizzata, con una produzione industriale regolata dall’**intelligenza artificiale** e dalla rete **[[SovSet]]**. Le fabbriche operano sotto un sistema di **pianificazione adattiva**, dove il governo può intervenire in caso di necessità economica.
+- **Settore privato controllato** – Le imprese possono operare nel mercato, ma sotto **stretta supervisione statale**. La proprietà privata esiste, ma tutte le aziende devono aderire ai principi socialisti e mantenere rapporti con il governo.
+- **Energia e materie prime** – La **Russia** garantisce forniture di petrolio e gas, mentre la **Cina** gestisce la produzione manifatturiera e tecnologica. L’**Asia centrale** fornisce minerali strategici.
+## Commercio e Relazioni Internazionali
+
+- **Esportazioni strategiche** – La CSE commercia con il **Blocco Rosso** e il **Blocco Verde**, ma evita il contatto diretto con le economie fasciste. Le esportazioni includono tecnologia avanzata, infrastrutture digitali e risorse naturali.
+- **Interazione con il Blocco Verde** – Le economie **social-democratiche** mantengono rapporti economici con la CSE, acquistando energia, tecnologie di automazione e materiali industriali. In cambio, la CSE importa prodotti di consumo e alcune innovazioni occidentali.
+
+## Pentagrad e l’Economia della CSE
+
+Le [[Pentagrad]] non sono solo città-fortezze, ma anche **hub economici e tecnologici**, specializzati in:
+
+- **Ricerca militare e digitale**, per sviluppare nuove tecnologie di difesa e sorveglianza.
+- **Commercio strategico**, con alcune Pentagrad situate nei confini del Blocco Verde per facilitare lo scambio economico.
+- **Centri produttivi ultra-sicuri**, in grado di sostenere la produzione in caso di guerra o crisi economica globale.
