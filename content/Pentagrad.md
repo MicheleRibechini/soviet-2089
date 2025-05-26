@@ -8,6 +8,7 @@ TD
 - [ ] Come si sono sviluppate?
 - [ ] A cosa servono di solito?
 - [ ] Ora come sono?
+- [ ] Come sono strutturate? Che 
 
 - **Avamposti militari** dotati di **difese antimissile e antiatomiche**, pronti a resistere a un attacco su larga scala.
     
@@ -15,5 +16,8 @@ TD
     
 - **Centri di ricerca avanzata**, dedicati allo sviluppo di tecnologie militari e sociali.
 # Esempi famosi
-TD
+- In Ucraina
+- In Corea del Nord
+- A Cuba
+- 
 
