@@ -47,41 +47,13 @@ Intanto, il governo ha avviato **con largo anticipo** i preparativi per il **bic
 
 Nonostante la volontà governativa di consolidare la Confederazione attraverso queste celebrazioni, molti osservatori evidenziano le **crepe nel sistema**: il 2089 potrebbe **marcare l’inizio di una nuova fase di instabilità**, mentre la leadership della CSE continua a promuovere il **socialismo tecnologico** come unica alternativa al declino del capitalismo.
 
-# Membri del CSE
-Ad oggi si annoverano tra i Paesi socialisti membri della Confederazione
-
-- Russia
-- Cina
-- Bielorussia
-- Ucraina
-- Kazakhstan
-- Uzbekistan
-- Turkmenistan
-- Kirghizistan
-- Tagikistan
-- Mongolia
-- Vietnam
-- Laos
-- Cambogia
-- Pakistan
-- Iran
-- Corea del Nord
-- Algeria
-- Sudan
-- Etiopia
-- Angola
-- Repubblica Democratica del Congo
-#### Alleati esterni
-Gli alleati esterni del CSE, ovvero i Paesi di stampo socialista tecnicamente indipendenti dalla Confederazione ma comunque considerati parte del **[[Blocchi Globali|Blocco Rosso]]**, sono
-- Cuba
-- Venezuela
-- Nicaragua
-- Bolivia
+### Il "Blocco Rosso"
+I Paesi membri del CSE e i loro alleati formano il cosiddetto *Blocco Rosso* che, assieme al Nero e al Verde, rappresentano le [[Blocchi Globali|tre aree politiche che dividono il mondo]].
 # Governo
 
 ## Governo e Partito nella CSE
 
-La **Confederazione Socialista Eurasiatica (CSE)** mantiene una **struttura politico-amministrativa fortemente integrata** tra il **Partito Comunista della CSE** e gli **organi di governo**. Sebbene la Cina abbia la leadership strategica e la Russia abbia riguadagnato influenza economica e tecnologica, la governance è regolata da un **modello digitale avanzato**, gestito da **[[SovSet]]**, che permette un **controllo costante delle istituzioni e della volontà popolare**.
+La Confederazione mantiene una **struttura politico-amministrativa fortemente integrata** tra il **Partito Comunista della CSE** e gli **organi di governo**. Sebbene la Cina abbia la leadership strategica e la Russia abbia riguadagnato influenza economica e tecnologica, la governance è regolata da un **modello digitale avanzato**, gestito da **[[SovSet]]**, che permette un **controllo costante delle istituzioni e della volontà popolare**.
 
 ## Autonomia degli Stati Membri
 
@@ -101,15 +73,7 @@ Interpreta la legge confederale, risolve le controversie tra Stati membri, garan
 
 - **Ministero Sicurezza di Stato (MSS)**: diplomazia, intelligence, spionaggio, controspionaggio.
 - **Ministero Pubblica Sicurezza (MPS)**: sicurezza interna, ordine pubblico, prevenzione e repressione di crimini e dissenso.
-- **SovSet**: Piattaforma digitale integrata per l’amministrazione pubblica, la partecipazione politica e il controllo sociale. Gestisce consultazioni, proposte di legge e raccolta dati.
-
-## KonMass
-Uno degli strumenti dell'espressione della volontà popolare è il KonMass (letteralmente Consultazione delle Masse) che prevede l'utilizzo della piattaforma SovSet per proporre dal basso modifiche alla struttura del CSE. Il funzionamento è il seguente
-
-1. **Iniziativa Popolare**: ogni cittadino della CSE può proporre una nuova legge o una modifica normativa attraverso SovSet. Il sistema applica un algoritmo di controllo per verificare che la proposta non vada contro ai principi socialisti del CSE. Le proposte vengono pubblicate e rese visibili a tutti gli utenti della piattaforma. 
-2. **Raccolta Consensi**: le proposte devono raggiungere la soglia minima di consenso dello 0,01% delle popolazione totale della Confederazione entro 6 mesi dall'inizio della proposta, per essere prese in considerazione. Autenticando il proprio profilo è possibile esprimere il voto in maniera anonima.
-3. **Valutazione e Votazione**: il Consiglio Supremo discute e vota le proposte ammesse. Il Partito mantiene il diritto di veto sulle proposte ritenute incompatibili con la linea confederale o la sicurezza dello Stato.
-4. **Promulgazione**: le leggi approvate vengono promulgate dal Segretario Generale e pubblicate su SovSet per la consultazione pubblica.
+- **[[SovSet]]**: Piattaforma digitale integrata per l’amministrazione pubblica, la partecipazione politica e il controllo sociale. Gestisce consultazioni ([[KonMass]]), proposte di legge e raccolta dati.
 
 | Potere         | Organo Principale   | Funzione Chiave                                            | Organizzazione/Note                         |
 | -------------- | ------------------- | ---------------------------------------------------------- | ------------------------------------------- |

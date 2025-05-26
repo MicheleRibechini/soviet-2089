@@ -15,7 +15,7 @@ Qui si trovano depositi, garage, armerie, officine e laboratori militari.
 A differenza degli altri distretti, quello militare si sviluppa per tutta l'altezza della [[Pentagrad]], dal suolo fino al tetto, inoltre, presenta passaggi di comunicazione rapida ([[tramvia]] militare) che mettono in comunicazione i cinque bastioni tra loro, col tetto, i sotterranei e la piazza del Giardino. 
 Quasi tutte le aree del distretto militare hanno un accesso riservato a soldati, cadetti, ufficiali o funzionari del [[Partito Comunista della Confederazione Socialista Eurasiatica|Partito]], ma sono presenti anche zone di transito aperte ai civili.
 # Industriale
-TD
+- 
 # Culturale
 TD
 # Tecnologico
