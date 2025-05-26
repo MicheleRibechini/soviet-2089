@@ -1,7 +1,7 @@
 
 **Pentagrad** è il nome delle città-fortezze sovietiche della Confederazione Socialista Eurasiatica (CSE). Immensi, densi e possenti agglomerati urbani dalla forma pentagonale, le Pentagrad sono fortemente militarizzate e sostenute da una prolifica industria pesante. Rappresentano la massima espressione dell’urbanistica socialista avanzata: città-fortezza, laboratorio tecnologico e monumento vivente al socialismo digitale.
 
-Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiati dalla guarnigione del corrispondente [[Ryon|distretto militare]]. Al centro di una Pentagrad vi è l'immenso [[Giardino della Stella Rossa]].
+Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiati dalla guarnigione del corrispondente [[Ryon|distretto militare]]. Al centro di una Pentagrad vi è l'immenso [[Ryon||Il Giardino della Stella Rossa]].
 
 ## Caratteristiche architettoniche e urbanistiche
 
@@ -11,11 +11,6 @@ Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiat
 - **Bunker**: Sotto la superficie, vasti bunker sono progettati per accogliere civili e soldati in caso di conflitto, garantendo la sopravvivenza della popolazione anche in scenari di guerra nucleare o attacchi convenzionali.
 - **Difese**: Le Pentagrad sono dotate di sistemi antimissile e antiatomici, rendendole avamposti praticamente inespugnabili.
 - **Centri di ricerca**: All’interno delle Pentagrad operano centri di ricerca avanzata, dedicati allo sviluppo di tecnologie militari, digitali e sociali.
-## Il Giardino della Stella Rossa
-
-Al centro di ogni Pentagrad si estende il monumentale **Giardino della Stella Rossa**, un’area verde di circa 7,4 km² (pari al 20% della superficie totale della città). Il giardino è dominato da una gigantesca stella rossa, le cui cinque punte toccano esattamente i cinque lati interni del pentagono urbano, rendendola visibile da qualsiasi punto della città e dall’alto.
-
-Nel punto centrale della stella si erge una **statua commemorativa dorata** che raggiunge i 175 metri d’altezza, pari all’altezza massima della struttura. Ogni Pentagrad presenta una statua diversa, dedicata a figure storiche, simboli del socialismo o eventi fondativi della CSE. Queste statue fungono da punto focale per cerimonie ufficiali, raduni pubblici e commemorazioni.
 ## Funzioni e organizzazione
 
 - **Avamposti militari**: Le Pentagrad sono progettate come nodi chiave della difesa confederale, in grado di resistere a un attacco su larga scala e di coordinare le operazioni militari regionali.
