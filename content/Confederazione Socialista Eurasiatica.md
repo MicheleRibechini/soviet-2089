@@ -70,9 +70,8 @@ Nominato dal Comitato Centrale del Partito, capo del governo confederale, attua 
 ### Corte Suprema (Giudiziario)
 Interpreta la legge confederale, risolve le controversie tra Stati membri, garantisce la conformità costituzionale.
 #### Altri Organismi
-
-- **Ministero Sicurezza di Stato (MSS)**: diplomazia, intelligence, spionaggio, controspionaggio.
-- **Ministero Pubblica Sicurezza (MPS)**: sicurezza interna, ordine pubblico, prevenzione e repressione di crimini e dissenso.
+- **[[Ministero Sicurezza Confederale]] (MSC)**: diplomazia, intelligence, spionaggio, controspionaggio.
+- **Organismi di polizia statali**: sicurezza interna, ordine pubblico, prevenzione e repressione di crimini e dissenso (organizzati dai vari stati confederati, ad esempio la [[NarPol]] ucraina.
 - **[[SovSet]]**: Piattaforma digitale integrata per l’amministrazione pubblica, la partecipazione politica e il controllo sociale. Gestisce consultazioni ([[KonMass]]), proposte di legge e raccolta dati.
 
 | Potere         | Organo Principale   | Funzione Chiave                                            | Organizzazione/Note                         |
@@ -80,7 +79,7 @@ Interpreta la legge confederale, risolve le controversie tra Stati membri, garan
 | Legislativo    | Consiglio Supremo   | Emana e promuove leggi confederali                         | Comitato Centrale + Consiglio Federale      |
 | Esecutivo      | Segretario Generale | Attua le decisioni legislative, dirige il governo          | Nominato dal Comitato Centrale              |
 | Giudiziario    | Corte Suprema       | Interpreta la legge, risolve controversie tra Stati membri | Organo indipendente ma vigilato dal Partito |
-| Sicurezza      | MSS / MPS           | Sicurezza esterna/interna, intelligence, ordine pubblico   | Ministeri specializzati                     |
+| Sicurezza      | MSC                 | Sicurezza esterna/interna, intelligence, ordine pubblico   | Ministeri specializzati                     |
 | Partecipazione | KonMass (SovSet)    | Consultazioni, proposte di legge, amministrazione digitale | Piattaforma digitale confederale SovSet     |
 # Economia
 
