@@ -25,3 +25,21 @@ Nonostante non abbia poteri politici speciali se non quelli legati alla coordina
 La sua visione politica viene espressa nel modo in cui modera le sedute del Congresso e nelle sue dichiarazioni pubbliche, di fatto svolgendo un ruolo dirigenziale, esecutivo, operativo e diplomatico.
 
 Questo peso fattuale nella direzione politica del Congresso gli fruttato il titolo ufficioso e talvolta polemico di "Segretario Supremo".
+
+# Partiti Comunisti locali
+Sebbene, da statuto, il PCUC non possa interferire con l'organizzazione specifica dei Partiti che lo compongono, ovvero i Partiti Comunisti locali, appartenenti alle singole Repubbliche Socialiste riunite nella [[Confederazione]], ci sono delle regole strutturali che un Partito deve possedere per poter essere accettato nel Congresso.
+- Ogni iscritto al Partito deve essere accettato tramite procedura selettiva che preveda uno o più esami di ammissione per valutare la lealtà ideologica e la capacità politica del soggetto
+- Ogni Partito deve partecipare alle sedute del Congresso inviando una delegazione di tre rappresentanti ufficiali. Questi possono essere scelti secondo le procedure stabilite dallo statuto del Partito locale (es. per nomina dall'alto o per elezione dal basso)
+
+Nonostante la mancanza di una struttura imposta dall'alto, quasi tutti i Partiti Comunisti appartenenti al Congresso presentano una struttura molto simile, con un Comitato Centrale come consiglio direttivo ed un Segretario Generale come presidente del CC.
+
+# Carriera politica
+Tipicamente la carriera politica di un cittadino segue queste fasi
+1. Candidato (ha fatto richiesta di ammissione)
+2. Iscritto (ha superato l'esame di ammissione)
+3. Quadro (ha un incarico politico effettivo)
+4. Membro del Comitato Centrale
+5. Segretario Generale del Comitato Centrale
+6. Delegato (rappresentante del Partito al Congresso)
+7. Presidente del Congresso
+Essendo il sistema del PCUC fortemente legato a nomine imposte dall'alto, è comune assistere a facilitazioni verso soggetti favoriti dagli organismi decisionali. Ad esempio una figura illustre come un ex agente del Ministero, benché magari non sia neanche un iscritto regolare del proprio Partito, potrebbe comunque essere scelto come delegato al Congresso, di fatto scalando rapidamente le gerarchie politiche della Confederazione.
