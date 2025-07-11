@@ -1,3 +1,9 @@
+---
+aliases:
+  - PFN
+  - Patto
+  - Blocco Verde
+---
 Il **Patto delle Nazioni Libere** (PFN), anche noto come *Patto* o *Blocco Verde*, è un'alleanza politica, economica e militare, nata in [[Inghilterra]] in seguito all'abbandono della [[Organizzazione del Trattato dell'Atlantico del Nord|NATO]] da parte dei Paesi liberali, critici nei confronti delle politiche militariste e liberticide promosse dagli [[Stati Uniti]].
 
 Affonda le sue radici nella struttura dell'alleanza economica Europea (UE), alla quale viene dato un peso governativo più determinante: i Paesi membri si riuniscono nell'[[Assemblea del Patto delle Nazioni Libere|Assemblea del Patto]], ovvero il parlamento, e possono prendere decisioni che vengono imposte a cascata su tutti i Paesi membri.

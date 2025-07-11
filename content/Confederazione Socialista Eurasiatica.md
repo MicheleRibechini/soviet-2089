@@ -2,10 +2,11 @@
 aliases:
   - CSE
   - Confederazione
+  - Blocco Rosso
 ---
 La **Confederazione Socialista Eurasiatica (CSE)** è un'organizzazione intergovernativa composta dalle ex Repubbliche Sovietiche, dalla Cina, dai loro alleati e Paesi satelliti, fondata nel 1991 in seguito alla crisi politica sovietica. 
 
-Da Statuto, la Confederazione garantisce l'indipendenza di tutti i suoi Stati membri, la capacità di eleggere un proprio governo, promulgare leggi, disporre di un esercito e battere moneta. Concretamente, alla formazione della Confederazione, i Partiti Comunisti dell'ex Unione Sovietica e della Repubblica Popolare Cinese si sono riuniti nel [[Partito Comunista Eurasiatico]], di fatto influenzando pesantemente la politica dei singoli Stati membri.
+Da Statuto, la Confederazione garantisce l'indipendenza di tutti i suoi Stati membri, la capacità di eleggere un proprio governo, promulgare leggi, disporre di un esercito e battere moneta. Concretamente, alla formazione della Confederazione, i Partiti Comunisti dell'ex Unione Sovietica e della Repubblica Popolare Cinese si sono riuniti nel [[Partito Comunista Unitario Confederale]], di fatto influenzando pesantemente la politica dei singoli Stati membri.
 
 Dagli anni '90, per un periodo di ormai quasi cento anni, la Cina ha guidato la Confederazione verso una rivoluzione digitale che ha portato allo sviluppo di [[SovSet]], la rete internet confederale, sciogliendo gran parte delle criticità legate ai difetti burocratici del governo sovietico.
 
@@ -84,7 +85,7 @@ Paesi alleati
 ## Autonomia degli Stati Membri
 
 - Ogni Stato membro della CSE mantiene la capacità di autodeterminarsi, potendo modificare la propria struttura politica ed economica.
-- Di fatto, ogni cambiamento viene vagliato dagli organi del [[Partito Comunista Eurasiatico|Partito]], che può impiegare la sua influenza per garantire la coerenza con i principi socialisti e la stabilità confederale.
+- Di fatto, ogni cambiamento viene vagliato dagli organi del [[Partito Comunista Unitario Confederale|Partito]], che può impiegare la sua influenza per garantire la coerenza con i principi socialisti e la stabilità confederale.
 
 ## Organi Confederali
 

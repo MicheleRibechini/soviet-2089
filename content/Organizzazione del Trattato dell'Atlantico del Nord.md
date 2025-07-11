@@ -2,6 +2,8 @@
 aliases:
   - Alleanza
   - NATO
+  - Blocco Blu
+  - Blocco Nero
 ---
 La **NATO**, anche nota come *Alleanza*, *Blocco Blu* nei Paesi occidentali o *Blocco Nero* nella [[Confederazione Socialista Eurasiatica|Confederazione]], è un'alleanza militare e, di fatto, un'organizzazione politica sovranazionale, con lo scopo dichiarato di difendere gli interessi nazionali dei Paesi membri coordinandone gli sforzi per arginare e sconfiggere la minaccia socialista.
 
