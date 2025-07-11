@@ -1,5 +1,5 @@
 obsidian_folder_path_str: './Soviet-2089'
-obsidian_entrypoint_path_str: './Soviet-2089/index.md'
+obsidian_entrypoint_path_str: './Soviet-2089/Home.md'
 html_output_folder_path_str: './site'
 site_name: 'SovietPunk-2089'
 toggles:
