@@ -1,7 +1,0 @@
-Principale strumento dell'espressione della volontà popolare del [[Confederazione Socialista Eurasiatica|CSE]] è il KonMass (letteralmente Consultazione delle Masse) che prevede l'utilizzo della piattaforma [[SovSet]] per proporre dal basso modifiche alla struttura del CSE. 
-Il funzionamento è il seguente
-
-1. **Iniziativa Popolare**: ogni cittadino della CSE può proporre una nuova legge o una modifica normativa attraverso SovSet. Il sistema applica un algoritmo di controllo per verificare che la proposta non vada contro ai principi socialisti del CSE. Le proposte vengono pubblicate e rese visibili a tutti gli utenti della piattaforma, che possono condividerli via chat.
-2. **Raccolta Consensi**: le proposte devono raggiungere la soglia minima di consenso dello 0,01% delle popolazione totale della Confederazione entro 6 mesi dall'inizio della proposta, per essere prese in considerazione. Autenticando il proprio profilo è possibile esprimere il voto in maniera anonima.
-3. **Valutazione e Votazione**: il Consiglio Supremo discute e vota le proposte ammesse. Il Partito mantiene il diritto di veto sulle proposte ritenute incompatibili con la linea confederale o la sicurezza dello Stato.
-4. **Promulgazione**: le leggi approvate vengono promulgate dal Segretario Generale e pubblicate su SovSet per la consultazione pubblica.
