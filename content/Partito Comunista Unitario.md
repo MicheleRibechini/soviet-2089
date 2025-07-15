@@ -2,17 +2,20 @@
 aliases:
   - Partito
   - PCE
-  - PCUC
+  - PCU
 ---
-Il **Partito Comunista Unitario Confederale**, anche noto semplicemente come **Il Partito** o con le sue sigle PCE, PCUC, è un'organizzazione politica di stampo comunista che riunisce e coordina i Partiti Comunisti delle Repubbliche Socialiste appartenenti alla [[Confederazione Socialista Eurasiatica]], di fatto governandola.
+Il **Partito Comunista Unitario**, anche noto semplicemente come **Il Partito** o con le sue sigle PCU, PCE, è un'organizzazione politica di stampo comunista che riunisce e coordina i Partiti Comunisti delle Repubbliche Socialiste appartenenti alla [[Confederazione Socialista Eurasiatica]], di fatto governandola.
 
 Il Partito ha due organi costitutivi
 - Il **Congresso**, ovvero l'assemblea universale dei Partiti Comunisti
 - Il **Presidente del Congresso**, anche noto come Segretario Supremo, che ha incarico di monitorare e facilitare le sedute del Congresso oltre che rappresentare pubblicamente il PCUC
+Inoltre, ha due organismi esterni ma collaterali
+- Il **[[Ministero della Sicurezza Confederale]]**, polizia speciale e intelligence
+- La **Corte Suprema**, giustizia confederale e crimini contro il PCU
 
 ## Il Congresso
 Il Congresso si raduna almeno una volta all'anno per
-- Discutere ed approvare la Linea Politica Condivisa, allineando tutti i Partiti membri del PCUC ad una visione comune
+- Discutere ed approvare la Linea Politica Condivisa, allineando tutti i Partiti membri del PCU ad una visione comune
 - Discutere e votare eventuali risoluzioni straordinarie quali la sfiducia alla Presidenza del Congresso (per la quale sono richiesti 2/3 dei voti)
 - Eleggere, a suo fine mandato, un nuovo Presidente del Congresso
 
@@ -27,11 +30,12 @@ La sua visione politica viene espressa nel modo in cui modera le sedute del Cong
 Questo peso fattuale nella direzione politica del Congresso gli fruttato il titolo ufficioso e talvolta polemico di "Segretario Supremo".
 
 # Partiti Comunisti locali
-Sebbene, da statuto, il PCUC non possa interferire con l'organizzazione specifica dei Partiti che lo compongono, ovvero i Partiti Comunisti locali, appartenenti alle singole Repubbliche Socialiste riunite nella [[Confederazione]], ci sono delle regole strutturali che un Partito deve possedere per poter essere accettato nel Congresso.
+Sebbene, da statuto, il PCU non possa interferire con l'organizzazione specifica dei Partiti che lo compongono, ovvero i Partiti Comunisti locali, appartenenti alle singole Repubbliche Socialiste riunite nella [[Confederazione Socialista Eurasiatica|Confederazione]], ci sono delle regole strutturali che un Partito deve possedere per poter essere accettato nel Congresso.
 - Ogni iscritto al Partito deve essere accettato tramite procedura selettiva che preveda uno o più esami di ammissione per valutare la lealtà ideologica e la capacità politica del soggetto
 - Ogni Partito deve partecipare alle sedute del Congresso inviando una delegazione di tre rappresentanti ufficiali. Questi possono essere scelti secondo le procedure stabilite dallo statuto del Partito locale (es. per nomina dall'alto o per elezione dal basso)
+- Ogni Partito deve riconoscere le istituzioni Confederali quali il Congresso, la sua Presidenza, il suo Ministero e la sua Corte Suprema ed essere soggetto ad esse
 
-Nonostante la mancanza di una struttura imposta dall'alto, quasi tutti i Partiti Comunisti appartenenti al Congresso presentano una struttura molto simile, con un Comitato Centrale come consiglio direttivo ed un Segretario Generale come presidente del CC.
+Nonostante la mancanza di una struttura imposta dall'alto, quasi tutti i Partiti Comunisti appartenenti al Congresso presentano una struttura molto simile, con un *Comitato Centrale* come consiglio direttivo ed un *Segretario Generale* come suo presidente.
 
 # Carriera politica
 Tipicamente la carriera politica di un cittadino segue queste fasi
@@ -42,4 +46,4 @@ Tipicamente la carriera politica di un cittadino segue queste fasi
 5. Segretario Generale del Comitato Centrale
 6. Delegato (rappresentante del Partito al Congresso)
 7. Presidente del Congresso
-Essendo il sistema del PCUC fortemente legato a nomine imposte dall'alto, è comune assistere a facilitazioni verso soggetti favoriti dagli organismi decisionali. Ad esempio una figura illustre come un ex agente del Ministero, benché magari non sia neanche un iscritto regolare del proprio Partito, potrebbe comunque essere scelto come delegato al Congresso, di fatto scalando rapidamente le gerarchie politiche della Confederazione.
+Essendo il sistema del PCU fortemente legato a nomine imposte dall'alto, è comune assistere a facilitazioni verso soggetti favoriti dagli organismi decisionali. Ad esempio una figura illustre come un ex agente del [[Ministero della Sicurezza Confederale|Ministero]], benché magari non sia neanche un iscritto regolare del proprio Partito, potrebbe comunque essere scelto come delegato al Congresso, di fatto scalando rapidamente le gerarchie politiche della Confederazione.
