@@ -65,7 +65,7 @@ Intanto, il governo ha avviato **con larghissimo anticipo** i preparativi per il
 - Sudan
 - Etiopia
 - Angola
-- Repubblica Socialista Democratica del Congo
+- Congo (Repubblica Democratica del)
 ###### Paesi Alleati
 I Paesi alleati sono quelli i cui Partiti sono **ospiti esterni del [[Partito Comunista Unitario#Il Congresso|Congresso]]**, potendo cioè partecipare alle assemblee e alle discussioni senza diritto di voto. Questo status è tipico dei Paesi con una guida instabile o che volontariamente si sono allontanati dal CSE per mantenere una certa neutralità con la NATO. 
 - Cuba
