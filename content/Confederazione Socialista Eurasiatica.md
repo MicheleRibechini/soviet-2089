@@ -6,7 +6,7 @@ aliases:
 ---
 La **Confederazione Socialista Eurasiatica (CSE)** è un'organizzazione intergovernativa ufficiosa composta dalle ex Repubbliche Sovietiche, dalla Cina, dai loro alleati e Paesi satelliti, fondata nel 1991 in seguito alla crisi politica sovietica. 
 
-> ## Forma organizzativa
+> ###### Forma organizzativa
 > La CSE annovera, riconosce e rivendica sotto di sé tutti i Paesi i quali abbiano al governo un Partito Comunista affiliato al [[Partito Comunista Unitario]], ovvero rappresentato al [[Partito Comunista Unitario#Il Congresso|Congresso Comunista]]. Questo significa che, più che di una alleanza tra Stati, la CSE si riferisce ad una alleanza tra Partiti alla guida di Paesi di regime socialista, e quindi, conseguentemente, tra quegli stessi Paesi.
 
 ## Nascita e progresso
