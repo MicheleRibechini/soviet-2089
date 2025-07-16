@@ -27,6 +27,7 @@ aliases:
 **Popolazione prevalente:** operai, tecnici, trasportatori, impiegati logistici.
 # Popolazione
 ## Lavori
+Di seguito la lista dei lavori in Svitanka (divisi per impiego e non per [[Mansioni|mansione]]).
 
 | Categoria                                             | Numero stimato | Descrizione sintetica                                             |
 | ----------------------------------------------------- | -------------- | ----------------------------------------------------------------- |
