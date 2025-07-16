@@ -8,7 +8,7 @@ Il **Partito Comunista Unitario**, anche noto semplicemente come **Il Partito** 
 
 Il Partito ha due organi costitutivi
 - Il **Congresso**, ovvero l'assemblea universale dei Partiti Comunisti
-- Il **Presidente del Congresso**, anche noto come Segretario Supremo, che ha incarico di monitorare e facilitare le sedute del Congresso oltre che rappresentare pubblicamente il PCU
+- Il **Presidente del Congresso**, anche noto come Segretario Supremo, che ha incarico di monitorare e facilitare le sedute del Congresso oltre che rappresentare pubblicamente il PCU  
 Inoltre, ha due organismi esterni ma collaterali
 - Il **[[Ministero della Sicurezza Confederale]]**, polizia speciale e intelligence
 - La **Corte Suprema**, giustizia confederale e crimini contro il PCU

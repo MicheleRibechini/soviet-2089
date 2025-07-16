@@ -81,6 +81,7 @@ I Paesi alleati sono quelli i cui Partiti sono **ospiti esterni del [[Partito Co
 - Tanzania
 - Zambia
 - Sud Africa
+![[Image_WorldMap.png]]
 # Governo
 Data la sua natura ufficiosa, la Confederazione non ha un Presidente né un governo riconosciuto, tuttavia, fattualmente, la sua guida politica coincide col [[Partito Comunista Unitario#Il Congresso|Congresso]] del [[Partito Comunista Unitario|PCU]] e del suo [[Partito Comunista Unitario#Presidente del Congresso|Presidente]], anche detto "Segretario Supremo", che incarnano il potere esecutivo.
 
