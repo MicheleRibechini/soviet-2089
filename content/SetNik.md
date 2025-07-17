@@ -1,0 +1,3 @@
+I SetNik sono programmatori, operatori e hacker che operano all'interno della [[Confederazione Socialista Eurasiatica|Confederazione]].
+
+Tipicamente frutto di un percorso di studi universitario, i SetNik più capaci possono essere assorbiti dal tessuto governativo e diventare agenti [[Ministero della Sicurezza Confederale|ministeriali]]. Gli altri svolgono comunque incarichi di prestigio quali la manutenzione di [[SovSet]], lo sviluppo di nuove funzionalità di [[Razum]] o di app specifiche.
