@@ -49,5 +49,6 @@ Tipicamente la carriera politica di un cittadino segue queste fasi
 5. Segretario Generale del Comitato Centrale (del suo Paese)
 6. Delegato (rappresentante del Partito al Congresso)
 7. Presidente del Congresso
+
 > ###### Spinte dall'Alto
 > Essendo il sistema del PCU fortemente legato a nomine imposte dall'alto, è comune assistere a facilitazioni verso soggetti favoriti dagli organismi decisionali. Ad esempio una figura illustre come un ex agente del [[Ministero della Sicurezza Confederale|Ministero]], benché magari non sia neanche un iscritto regolare del proprio Partito, potrebbe comunque essere scelto come delegato al Congresso, di fatto scalando rapidamente le gerarchie politiche della Confederazione.

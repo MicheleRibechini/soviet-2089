@@ -3,7 +3,7 @@ aliases:
   - Svitanka
 ---
 
-**Svitanka** è una [[Pentagrad]] situata nei pressi di Kharkiv, nella Repubblica Socialista Sovietica Ucraina, con lo scopo di difendere il fronte occidentale nel caso di invasione. Come ogni Pentagrad regolare, è organizzata su 50 piani (etazh) e 5 segmenti (storova) - SudOvest, SudEst, NordOvest, Nord, Est - ospitando al suo centro il monumentale Giardino della Stella Rossa.
+**Svitanka** è una [[Pentagrad]] situata nei pressi di Kharkiv, nella Repubblica Socialista Sovietica Ucraina, con lo scopo di difendere il fronte occidentale nel caso di invasione. Come ogni Pentagrad regolare, è organizzata su 5 segmenti (storova) - SudOvest, SudEst, NordOvest, Nord, Est - ospitando al suo centro il monumentale Giardino della Stella Rossa.
 ## Segmentazione
 ### SudOvest – Storova "Zorya" (Alba)
 **Carattere:** Innovazione sociale e culturale  
@@ -95,7 +95,6 @@ Secondo i recenti sondaggi condotti dall'Università Politica, l'opinione pubbli
 - **Centri di riparazione [[Avtomat]]**: 10
 - **Centri di addestramento IA ([[Razum]])**: 5
 - **Bunker civili**: 5 principali + decine di rifugi minori
-- **Stazioni di trasporto pubblico**: 25 (5 per segmento)
 - **Stazioni logistiche merci**: 10
 - **Uffici amministrativi**: 15
 - **Sedi di partito ([[Rajkom]])**: 5 (una per segmento)
