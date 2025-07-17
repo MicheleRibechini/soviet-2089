@@ -1,5 +1,8 @@
 ---
 title: Home
+aliases:
+  - Home
+  - Start
 ---
 # SovietPunk 2089
 Nel 2089, l'assetto geopolitico mondiale è dominato da tre grandi blocchi ideologicamente contrapposti: la **Confederazione Socialista Eurasiatica** ([[Confederazione Socialista Eurasiatica|CSE]]), l'**Organizzazione del Trattato dell'Atlantico del Nord** ([[Organizzazione del Trattato dell'Atlantico del Nord|NATO]]) e il **Patto delle Nazioni Libere** ([[Pact of Free Nations|PFN]]).
