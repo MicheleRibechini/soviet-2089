@@ -28,7 +28,7 @@ La Confederazione nasce principalmente dalle ceneri dell'Unione Sovietica (1917-
 ###### Nascita della Confederazione
 Il presidente **Michail Gorbačëv** avviò un piano di riforme politiche ed economiche, ma fu **Oleg Dmitrievič Baklanov**, ex Segretario del Comitato Centrale per la Difesa, a emergere come mediatore pragmatico tra le correnti sovietiche e i rappresentanti cinesi, trovando il compromesso necessario per garantire la sopravvivenza del socialismo in Eurasia. 
 
-Il malcontento nazionalista fu tamponato smantellando il centralismo russo e adottando una formula confederale, che riunì Repubbliche Socialiste autonome e indipendenti sotto l’egida di un [[Partito Comunista Unitario]] (Autonomia, 1° settembre 1991). Questo primo passo diede inizio alla prima riunione, costitutiva, del Congresso Comunista, il quale, il 21 dicembre 1991, proclamò la nascita della Confederazione Socialista Eurasiatica. 
+Il malcontento nazionalista fu tamponato smantellando il centralismo russo e adottando una formula confederale, che riunì Repubbliche Socialiste Sovietiche autonome e indipendenti sotto l’egida di un [[Partito Comunista Unitario]] (Autonomia, 1° settembre 1991). Questo primo passo diede inizio alla prima riunione, costitutiva, del Congresso Comunista, il quale, il 21 dicembre 1991, proclamò la nascita della Confederazione Socialista Eurasiatica. 
 
 L’**adesione della Repubblica Popolare Cinese**, avvenuta nel **febbraio 1992**, sancì definitivamente l’esistenza del nuovo blocco socialista confederale e ne garantì la sopravvivenza economica e strategica.
 ###### Progresso e Ripresa
@@ -44,43 +44,64 @@ Anche grazie a SovSet, specie nelle successive versioni, nel 2060 la Russia avev
 Intanto, il governo ha avviato **con larghissimo anticipo** i preparativi per il **bicentenario della Rivoluzione d’Ottobre** (2117), che si terrà tra quasi trent'anni a **Leningrado**. Nell'annuncio dell'evento, il Partito ha presentato col motto "stesse idee, nuova energia" il progetto di costruzione della prima **centrale a [[fusione nucleare]] al mondo**, intitolata a Vladimir Lenin, che verrà inaugurata e resa operativa, si stima, proprio tra trent'anni.
 
 # Paesi membri
-
-- Russia
-- Cina
-- Bielorussia
+| **Paese**                                                 |  Popolazione nel 2089 |
+| --------------------------------------------------------- | --------------------: |
+| Repubblica Popolare Cinese                                |         1,000,000,000 |
+| Repubblica Democratica Popolare d'Etiopia                 |           150,000,000 |
+| RSS Russa (ex RSFS Russa)                                 |           120,000,000 |
+| Repubblica Popolare dell'Angola                           |            70,000,000 |
+| Repubblica dell'Afghanistan                               |            60,000,000 |
+| Repubblica Popolare del Mozambico                         |            50,000,000 |
+| RSS dell'Uzbekistan                                       |            45,000,000 |
+| Repubblica Popolare del Congo                             |            40,000,000 |
+| RSS Ucraina                                               |            26,000,000 |
+| Repubblica Araba Siriana                                  |            25,000,000 |
+| RSS del Kazakhstan                                        |            20,000,000 |
+| Repubblica Popolare Democratica di Corea (Corea del Nord) |            20,000,000 |
+| Stato di Cambogia                                         |            18,000,000 |
+| RSS del Tagikistan                                        |            12,000,000 |
+| RSS del Turkmenistan                                      |            10,000,000 |
+| RSS dell'Azerbaigian                                      |            10,000,000 |
+| RSS del Kirghizistan                                      |             8,000,000 |
+| RSS Bielorussia                                           |             7,000,000 |
+| Repubblica Democratica Popolare del Laos                  |             7,000,000 |
+| Repubblica Popolare Mongola                               |             4,000,000 |
+| RSS della Georgia                                         |             3,000,000 |
+| RSS Armena                                                |             2,500,000 |
+| RSS Moldava                                               |             2,000,000 |
+| RSS Lituana                                               |             1,800,000 |
+| RSS Lettone                                               |             1,200,000 |
+| RSS Estone                                                |             1,000,000 |
+| **=== TOTALE**                                            | **1,713,500,000 ===** |
+|                                                           |                       |
+###### Paesi Instabili
+Tra i Paesi confederati, si registrano preoccupanti tendenze nazionalistiche ed indipendentiste in particolare in
 - Ucraina
-- Kazakhstan
-- Uzbekistan
-- Turkmenistan
-- Kirghizistan
-- Tagikistan
-- Mongolia
-- Vietnam
-- Laos
-- Cambogia
-- Pakistan
-- Iran
-- Corea del Nord
-- Mozambico
-- Sudan
-- Etiopia
-- Angola
-- Congo (Repubblica Democratica del)
+- Armenia
+- Moldavia
+- Georgia
+
 ###### Paesi Alleati
 I Paesi alleati sono quelli i cui Partiti sono **ospiti esterni del [[Partito Comunista Unitario#Il Congresso|Congresso]]**, potendo cioè partecipare alle assemblee e alle discussioni senza diritto di voto. Questo status è tipico dei Paesi con una guida instabile o che volontariamente si sono allontanati dal CSE per mantenere una certa neutralità con la NATO. 
-- Cuba
-- Venezuela
-- Nicaragua
-- Bolivia
-- Algeria
-- Libia
-- Guinea
-- Ghana
-- Nigeria
-- Kenya
-- Tanzania
-- Zambia
-- Sud Africa
+- Repubblica di Cuba
+- Repubblica Popolare Democratica di Corea
+- Repubblica Socialista del Vietnam
+- Repubblica Democratica Popolare del Laos
+- Repubblica Islamica dell’Iran
+- Repubblica Islamica del Pakistan
+- Repubblica Democratica Popolare di Algeria
+- Jamahiriya Araba Libica Popolare Socialista
+- Repubblica del Nicaragua
+- Repubblica dello Zimbabwe
+- Repubblica del Sudan
+- Repubblica del Venezuela
+- Repubblica della Bolivia
+- Repubblica del Ghana
+- Repubblica del Kenya
+- Repubblica Unita di Tanzania
+- Repubblica di Zambia
+Inoltre, la Confederazione sostiene l'indipendenza della **Palestina** contro l'imperialismo **israeliano**, collaborando in particolare col **[FPLP](https://it.wikipedia.org/wiki/Fronte_Popolare_per_la_Liberazione_della_Palestina).**
+
 ![[Image_WorldMap.png]]
 # Governo
 Data la sua natura ufficiosa, la Confederazione non ha un Presidente né un governo riconosciuto, tuttavia, fattualmente, la sua guida politica coincide col [[Partito Comunista Unitario#Il Congresso|Congresso]] del [[Partito Comunista Unitario|PCU]] e del suo [[Partito Comunista Unitario#Presidente del Congresso|Presidente]], anche detto "Segretario Supremo", che incarnano il potere esecutivo.
