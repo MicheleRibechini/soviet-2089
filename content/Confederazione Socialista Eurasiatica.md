@@ -14,7 +14,7 @@ Dagli anni '90, per un periodo di ormai quasi cento anni, la Cina ha guidato la 
 
 Durante questo secolo, Cina e Russia sono rimaste i due principali protagonisti della politica socialista nel mondo, riuscendo miracolosamente nell'impresa di collaborare per uno scopo comune, nonostante la grande divergenza di vedute. L'alleanza economica della Confederazione ha permesso di sviluppare l'economia di consumo cinese, contraddistinta da una pesante **liberalizzazione dei mezzi di produzione**, seppure sotto il controllo del governo, e di **completare il processo di industrializzazione sovietico** in una forma più solida e competitiva, oltre alla crescita dei Paesi socialisti membri.
 
-Oggi, dopo un'egemonia culturale secolare contesa tra russi e cinesi, con poco spazio al mondo medio-orientale, africano, asiatico e latino, anche queste voci si fanno sentire. L'**Iran** sta sviluppando un sistema missilistico in grado di competere con le ultime tecnologie israeliane, in **Africa** il processo di de-colonizzazione sta accendendo numerosi focolai di rivolta rossa, la qualità di vita nei villaggi dell'Asia è arrivata agli stessi valori di quella delle città industriali e **Cuba** si conferma da vent'anni il Paese latino col tenore di vita medio più alto.
+Oggi, dopo un'egemonia culturale secolare contesa tra russi e cinesi, con poco spazio al mondo medio-orientale, africano, asiatico e latino, anche queste voci si fanno sentire. L'**Iran** sta sviluppando un sistema missilistico in grado di competere con le ultime tecnologie israeliane, in **Africa** il processo di de-colonizzazione sta accendendo numerosi focolai di rivolta rossa, mentre il boom di natalità in **Etiopia** l'ha spinta al secondo posto per popolazione nella Confederazione, la qualità di vita nei villaggi dell'**Asia** è arrivata agli stessi valori di quella delle città industriali e **Cuba** si conferma da vent'anni il Paese latino col tenore di vita medio più alto.
 
 Inoltre, attraverso le sue pratiche di democrazia diretta grazie alla piattaforma [[KonMass]] su [[SovSet]], la Confederazione risulta, nella sua totalità, come una delle aree con una **maggiore partecipazione popolare alla vita politica**. Forse è anche per questo che, nonostante i ferrei controlli dell'informazione, la Confederazione risulta avere **bassi tassi di insoddisfazione**.
 
@@ -75,7 +75,7 @@ Intanto, il governo ha avviato **con larghissimo anticipo** i preparativi per il
 | **=== TOTALE**                                            | **1,713,500,000 ===** |
 |                                                           |                       |
 ###### Paesi Instabili
-Tra i Paesi confederati, si registrano preoccupanti tendenze nazionalistiche ed indipendentiste in particolare in
+Tra i Paesi confederati, si registrano preoccupanti tendenze nazionalistiche ed indipendentiste, in particolare in
 - Ucraina
 - Armenia
 - Moldavia
@@ -99,7 +99,8 @@ I Paesi alleati sono quelli i cui Partiti sono **ospiti esterni del [[Partito Co
 - Repubblica del Ghana
 - Repubblica del Kenya
 - Repubblica Unita di Tanzania
-- Repubblica di Zambia
+- Repubblica di Zambia   
+
 Inoltre, la Confederazione sostiene l'indipendenza della **Palestina** contro l'imperialismo **israeliano**, collaborando in particolare col **[FPLP](https://it.wikipedia.org/wiki/Fronte_Popolare_per_la_Liberazione_della_Palestina).**
 
 ![[Image_WorldMap.png]]
