@@ -2,17 +2,24 @@
 aliases:
   - Progetto Pentagrad
 ---
-**Pentagrad** è il nome delle città-fortezze della [[Confederazione Socialista Eurasiatica]]. Immensi, densi e possenti agglomerati urbani dalla forma pentagonale, le Pentagrad sono fortemente militarizzate e sostenute da una prolifica industria pesante. Rappresentano la massima espressione dell’urbanistica socialista avanzata: città-fortezza, laboratorio tecnologico e monumento vivente al socialismo.
+**Pentagrad** è il nome delle città-fortezze della [[Confederazione Socialista Eurasiatica]]. Immensi, densi e possenti agglomerati urbani dalla forma pentagonale, le Pentagrad sono fortemente militarizzate e sostenute da una prolifica industria pesante.
 
-Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiati dalla guarnigione del corrispondente [[Ryon|distretto militare]]. Al centro di una Pentagrad vi è l'immenso [[Ryon||Giardino della Stella Rossa]].
-### Caratteristiche
-- **Forma e dimensioni**: Ogni Pentagrad si sviluppa su una pianta pentagonale regolare, con ciascun lato lungo circa 3.849 metri e un apotema di pari misura. La superficie totale è di circa 37 km².
-- **Altezza**: L’edificio principale raggiunge i 175 metri, distribuiti su 50 piani (3,5 metri a piano), consentendo la distribuzione verticale di alloggi, servizi e infrastrutture.
-- **Bastioni**: Le cinque punte del pentagono sono fortificate con bastioni massicci, ciascuno dotato di sistemi di difesa avanzati e presidiato da una guarnigione militare autonoma.
-- **Bunker**: Sotto la superficie, vasti bunker sono progettati per accogliere civili e soldati in caso di conflitto, garantendo la sopravvivenza della popolazione anche in scenari di guerra nucleare o attacchi convenzionali.
-- **Difese**: Le Pentagrad sono dotate di sistemi antimissile e antiatomici, rendendole avamposti praticamente inespugnabili.
-- **Centri di ricerca**: All’interno delle Pentagrad operano centri di ricerca avanzata, dedicati allo sviluppo di tecnologie militari, digitali e sociali.
-- **[[Ryon]]**: una Pentagrad è divisa in distretti specializzati 
+Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiati dalla guarnigione del corrispondente [[Ryon|distretto militare]] e protette da un sistema balistico antimissile d'avanguardia. Al centro di una Pentagrad vi è l'immenso [[Ryon||Giardino della Stella Rossa]]. Al di sopra, c'è un eliporto civile e militare. Sotto il Pentagrad ci sono bunker antiatomici e depositi d'emergenza.
+
+Oltre alla loro primaria funzione difensiva, le Pentagrad sono spesso secondariamente centri di ricerca tecnologica, poli universitari o distretti produttivi specializzati nell'industria pesante ([[Ryon|ryon]]).
+
+### Funzioni e organizzazione
+- **Avamposti militari**: Le Pentagrad sono progettate come nodi chiave della difesa confederale, in grado di resistere a un attacco su larga scala e di coordinare le operazioni militari regionali.
+- **Hub economici e tecnologici**: Ogni Pentagrad ospita industrie automatizzate, centri di ricerca, laboratori digitali e piattaforme di scambio commerciale, fungendo da motore per l’economia e l’innovazione della CSE.
+- **Spazi residenziali**: Gli alloggi sono distribuiti verticalmente, con servizi pubblici, scuole, ospedali e centri culturali integrati nei diversi livelli della struttura.
+- **Gestione digitale**: Tutte le funzioni amministrative e sociali sono coordinate tramite la piattaforma [[SovSet]], che garantisce la partecipazione civica e la gestione efficiente delle risorse.
+### Storia
+Le Pentagrad nascono nella seconda metà del XXI secolo, in risposta alla crescente militarizzazione dei confini e alle minacce provenienti dal blocco occidentale. Inizialmente concepite come avamposti difensivi, si sono evolute in città multifunzionali, simbolo della resilienza socialista e della capacità della CSE di integrare difesa, industria e vita civile. Oggi le Pentagrad rappresentano il baluardo del socialismo tecnologico, ma anche il laboratorio delle sue contraddizioni: centri di innovazione e, al tempo stesso, di controllo sociale e militare.
+### Pentagrad famose
+###### Pentagrad Svitanka (Ucraina, Kharkiv)
+La possente **[[Pentagrad Svitanka]]**, situata nei pressi di [Kharkiv](https://it.wikipedia.org/wiki/Charkiv), rappresenta un emblema dell’orgoglio e della resilienza ucraina all’interno della [[Confederazione Socialista Eurasiatica|Confederazione]]. 
+
+Al centro del suo Giardino della Stella Rossa sorge una monumentale statua raffigurante una coppia: la donna, con il tradizionale velo slavo, è vestita da contadina e impugna un fucile, mentre nell’altra mano solleva una falce; l’uomo, in abiti da operaio, tiene una chiave inglese e un martello. Falce e martello si uniscono sopra le loro teste, e al di sopra di essi fluttua una stella rossa, mantenuta in equilibrio da un sofisticato sistema magnetico. Questa composizione simboleggia l’unità tra lavoro agricolo e industriale e la forza collettiva del popolo ucraino.
 
 | Caratteristica        | Valore stimato     |
 | --------------------- | ------------------ |
@@ -24,18 +31,6 @@ Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiat
 | Altezza edifici       | 80m - 150m         |
 | Area giardino interno | 5 km²              |
 | Altezza statua        | 100 m              |
-### Funzioni e organizzazione
-- **Avamposti militari**: Le Pentagrad sono progettate come nodi chiave della difesa confederale, in grado di resistere a un attacco su larga scala e di coordinare le operazioni militari regionali.
-- **Hub economici e tecnologici**: Ogni Pentagrad ospita industrie automatizzate, centri di ricerca, laboratori digitali e piattaforme di scambio commerciale, fungendo da motore per l’economia e l’innovazione della CSE.
-- **Spazi residenziali**: Gli alloggi sono distribuiti verticalmente, con servizi pubblici, scuole, ospedali e centri culturali integrati nei diversi livelli della struttura.
-- **Gestione digitale**: Tutte le funzioni amministrative e sociali sono coordinate tramite la piattaforma [[SovSet]], che garantisce la partecipazione civica e la gestione efficiente delle risorse.
-### Storia
-Le Pentagrad nascono nella seconda metà del XXI secolo, in risposta alla crescente militarizzazione dei confini e alle minacce provenienti dal blocco occidentale. Inizialmente concepite come avamposti difensivi, si sono evolute in città multifunzionali, simbolo della resilienza socialista e della capacità della CSE di integrare difesa, industria e vita civile. Oggi le Pentagrad rappresentano il baluardo del socialismo tecnologico, ma anche il laboratorio delle sue contraddizioni: centri di innovazione e, al tempo stesso, di controllo sociale e militare.
-### Pentagrad famose
-###### Pentagrad Svitanka (Ucraina, Kharkiv)
-La **[[Pentagrad di Svitanka]]**, situata nei pressi di [Kharkiv](https://it.wikipedia.org/wiki/Charkiv), rappresenta un emblema dell’orgoglio e della resilienza ucraina all’interno della [[Confederazione Socialista Eurasiatica|Confederazione]]. 
-
-Al centro del suo Giardino della Stella Rossa sorge una monumentale statua raffigurante una coppia: la donna, con il tradizionale velo slavo, è vestita da contadina e impugna un fucile, mentre nell’altra mano solleva una falce; l’uomo, in abiti da operaio, tiene una chiave inglese e un martello. Falce e martello si uniscono sopra le loro teste, e al di sopra di essi fluttua una stella rossa, mantenuta in equilibrio da un sofisticato sistema magnetico. Questa composizione simboleggia l’unità tra lavoro agricolo e industriale e la forza collettiva del popolo ucraino.
 ###### Pentagrad Baekdu (Corea del Nord, Chongjin)
 La **Pentagrad Baekdu**, edificata nella zona di Chongjin, prende il nome dal monte sacro simbolo nazionale coreano. È una delle principali basi difensive orientali della CSE, concepita per proteggere la penisola coreana da minacce esterne. 
 
@@ -52,3 +47,6 @@ Il Giardino della Stella Rossa ospita una statua dorata raffigurante un leone de
 La **Pentagrad Zarya** (“Alba”), situata sull’isola di Bolshoy Ussuriysky, tra il fiume Amur e il confine sino-russo, è stata la prima Pentagrad mai edificata. 
 
 Simbolo della rinnovata fratellanza tra Russia e Cina, la statua centrale del Giardino della Stella Rossa raffigura due figure stilizzate: una donna russa e un uomo cinese, che insieme sollevano una grande stella rossa. I loro abiti tradizionali e le mani intrecciate rappresentano l’unità e la cooperazione tra i due popoli fondatori della Confederazione.
+
+### Altre Pentagrad
+- [[Pentagrad Lisbnik]], situata sul Mar Nero

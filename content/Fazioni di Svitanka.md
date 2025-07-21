@@ -1,4 +1,4 @@
-Nella [[Pentagrad di Svitanka]] operano le seguenti fazioni
+Nella [[Pentagrad Svitanka]] operano le seguenti fazioni
 
 | Nome (traduzione)                      | Breve descrizione (identità, obiettivo, valori, mezzi)                                                                                  | Leader (titolo e nome, origine, M/F)                                   | Membri tipici                                                                                       |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
