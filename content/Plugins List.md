@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - hide
 ---
 - DB Folder
 - Dataview
@@ -9,6 +10,3 @@ tags: []
 - Local Backup
 - Map View
 - Templater
-
-#hide
-#secret 
