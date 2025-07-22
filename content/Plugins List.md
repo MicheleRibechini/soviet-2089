@@ -1,3 +1,6 @@
+---
+tags: []
+---
 - DB Folder
 - Dataview
 - Emoji Shortcodes
@@ -7,3 +10,4 @@
 - Map View
 - Templater
 
+#hide
