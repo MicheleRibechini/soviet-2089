@@ -75,7 +75,7 @@ const config: QuartzConfig = {
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.Filter({
+      Plugin.CustomFilter({
         name: "exclude-secret-hide",
         shouldPublish: (_ctx, [_tree, vfile]) => {
           const tags = vfile.data?.frontmatter?.tags;
