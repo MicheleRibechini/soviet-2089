@@ -1,5 +1,7 @@
 ---
 Rank: "0"
+tags:
+  - secret
 ---
 Compagna di [[Boris]], matrigna di [[Natalya Volkov|Natalya]].
 

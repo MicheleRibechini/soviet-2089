@@ -1,6 +1,8 @@
 ---
 Rank: "3"
 Power: 9
+tags:
+  - secret
 ---
 # Introduzione
 Uomo asiatico sulla quarantina, dall’aspetto trasandato e anonimo, conduce una vita solitaria e priva di ambizioni, impiegato in un lavoro umile e poco gratificante come una catena di fast food. Non ha famiglia, pochissimi conoscenti, e trascorre il tempo libero tra slot machine, pachinko e social network ormai superati, dove condivide vecchi meme e messaggi banali. Paranoico, copre la webcam per paura di essere spiato dal governo. A sua insaputa, è uno dei più letali sicari su commissione, attivato raramente per via dei suoi metodi cruenti e disturbanti. Il suo unico “amico” è in realtà il suo agente di controllo. Vive tra lunghi vuoti di memoria e una routine miserabile, iniziando lentamente a sospettare che qualcosa nella sua vita non torni.

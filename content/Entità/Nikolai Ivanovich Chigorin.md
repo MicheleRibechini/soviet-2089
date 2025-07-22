@@ -1,6 +1,8 @@
 ---
 Rank: "3"
 Power: 9
+tags:
+  - secret
 ---
 Agente del [[Ministero della Sicurezza Confederale|Ministero]] in missione nei Paesi del [[Pact of Free Nations|Blocco Verde]], in particolar modo in Inghilterra, dove si è sposato con **Lady Catelyn Giffard-Glasbury**, terza figlia del Duca di Birmingham.
 

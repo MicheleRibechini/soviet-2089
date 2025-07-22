@@ -1,6 +1,8 @@
 ---
 Rank: "3"
 Power: 9
+tags:
+  - secret
 ---
 ![[Image_William_Nikolaievitch_Chigorin.jpg]]
 
