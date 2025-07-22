@@ -74,16 +74,8 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [
-  Plugin.RemoveDrafts(),
-  Plugin.Filter({
-    name: "exclude-secret",
-    shouldPublish: (_ctx, [_tree, vfile]) => {
-      const tags = vfile.data?.frontmatter?.tags;
-      if (!Array.isArray(tags)) return true; // se tags non è array, includi
-      return !tags.includes("secret");
-    },
-  }),
-],
+      Plugin.RemoveDrafts()
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -98,7 +90,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
