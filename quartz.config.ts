@@ -78,8 +78,9 @@ const config: QuartzConfig = {
   Plugin.Filter({
     name: "exclude-secret",
     shouldPublish: (_ctx, [_tree, vfile]) => {
-      const tags: string[] = vfile.data?.frontmatter?.tags ?? []
-      return !tags.includes("secret")
+      const tags = vfile.data?.frontmatter?.tags;
+      if (!Array.isArray(tags)) return true; // se tags non è array, includi
+      return !tags.includes("secret");
     },
   }),
 ],
