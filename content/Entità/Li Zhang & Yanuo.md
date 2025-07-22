@@ -9,7 +9,7 @@ Uomo asiatico sulla quarantina, dall’aspetto trasandato e anonimo, conduce una
 
 ![[Image_Li.png]]
 
-BACKGROUND SEGRETO
+### Segreti
 Ex agente del MSC, vendutosi come agente dormiente (a costo delle sue memorie) per salvare sua figlia da una rara malattia genetica. Ha moglie e figlia in un altra città. Non ha ricordi da quando ha 34 anni.
 
 ![[Image_Yanuo.png]]
