@@ -6,13 +6,9 @@ aliases:
 
 Le cinque punte di una Pentagrad sono difese da possenti **bastioni**, presidiati dalla guarnigione del corrispondente [[Ryon|distretto militare]] e protette da un sistema balistico antimissile d'avanguardia. Al centro di una Pentagrad vi è l'immenso [[Ryon||Giardino della Stella Rossa]]. Al di sopra, c'è un eliporto civile e militare. Sotto il Pentagrad ci sono bunker antiatomici e depositi d'emergenza.
 
-Oltre alla loro primaria funzione difensiva, le Pentagrad sono spesso secondariamente centri di ricerca tecnologica, poli universitari o distretti produttivi specializzati nell'industria pesante ([[Ryon|ryon]]).
+Il Pentagrad è efficacemente collegato grazie al suo [[Sistema di Trasporti Confederale#Trasporto nelle Pentagrad|sistema tranviario]].
 
-### Funzioni e organizzazione
-- **Avamposti militari**: Le Pentagrad sono progettate come nodi chiave della difesa confederale, in grado di resistere a un attacco su larga scala e di coordinare le operazioni militari regionali.
-- **Hub economici e tecnologici**: Ogni Pentagrad ospita industrie automatizzate, centri di ricerca, laboratori digitali e piattaforme di scambio commerciale, fungendo da motore per l’economia e l’innovazione della CSE.
-- **Spazi residenziali**: Gli alloggi sono distribuiti verticalmente, con servizi pubblici, scuole, ospedali e centri culturali integrati nei diversi livelli della struttura.
-- **Gestione digitale**: Tutte le funzioni amministrative e sociali sono coordinate tramite la piattaforma [[SovSet]], che garantisce la partecipazione civica e la gestione efficiente delle risorse.
+Oltre alla loro primaria funzione difensiva, le Pentagrad sono spesso secondariamente centri di ricerca tecnologica, poli universitari o distretti produttivi specializzati nell'industria pesante ([[Ryon|ryon]]), fungendo non solo come avamposti militari ma come hub economici ad alta densità di popolazione.
 ### Storia
 Le Pentagrad nascono nella seconda metà del XXI secolo, in risposta alla crescente militarizzazione dei confini e alle minacce provenienti dal blocco occidentale. Inizialmente concepite come avamposti difensivi, si sono evolute in città multifunzionali, simbolo della resilienza socialista e della capacità della CSE di integrare difesa, industria e vita civile. Oggi le Pentagrad rappresentano il baluardo del socialismo tecnologico, ma anche il laboratorio delle sue contraddizioni: centri di innovazione e, al tempo stesso, di controllo sociale e militare.
 ### Pentagrad famose
