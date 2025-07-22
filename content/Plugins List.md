@@ -1,0 +1,9 @@
+- DB Folder
+- Dataview
+- Emoji Shortcodes
+- Icons
+- Ink
+- Local Backup
+- Map View
+- Templater
+
