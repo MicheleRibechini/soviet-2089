@@ -74,7 +74,16 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [
-      Plugin.RemoveDrafts()
+      Plugin.RemoveDrafts(),
+      Plugin.Filter({
+        name: "exclude-secret-hide",
+        shouldPublish: (_ctx, [_tree, vfile]) => {
+          const tags = vfile.data?.frontmatter?.tags;
+          if (!Array.isArray(tags)) return true;
+          const blocked = ["secret", "hide"];
+          return !tags.some(tag => blocked.includes(tag));
+        },
+      }),
     ],
     emitters: [
       Plugin.AliasRedirects(),
