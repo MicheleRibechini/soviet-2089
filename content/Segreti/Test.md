@@ -1,6 +1,7 @@
 ---
 tags:
   - utility
+  - secret
 ---
 > [!info]-
 
