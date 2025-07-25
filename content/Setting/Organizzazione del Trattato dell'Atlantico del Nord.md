@@ -1,4 +1,7 @@
 ---
+tags:
+  - setting
+  - entity
 aliases:
   - Alleanza
   - NATO

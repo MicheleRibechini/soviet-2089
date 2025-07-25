@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 Nel CSE i lavori si suddividono in quattro tipologie particolari, chiamate mansioni
 - Addestratore di IA
 - Supervisore tecnico

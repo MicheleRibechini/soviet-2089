@@ -1,9 +1,10 @@
 ---
 Rank: "0"
 tags:
+  - entity
   - secret
 ---
-Compagna di [[Boris]], matrigna di [[Natalya Volkov|Natalya]].
+Compagna di [[Boris Ivanovich Zyuganov]], matrigna di [[Natalya Volkov|Natalya]].
 
 Quando Natalya aveva 13 anni (14 anni fa), sposò suo padre, e poco dopo lui provò ad ucciderla.
 

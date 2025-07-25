@@ -1,6 +1,8 @@
 ---
 Rank: "0"
 Power: 0
+tags:
+  - entity
 ---
 ## Valery Ivankov
 ![image.png](Image_Valery.png)

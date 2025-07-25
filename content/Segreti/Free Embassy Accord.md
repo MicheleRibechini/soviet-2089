@@ -3,6 +3,7 @@ aliases:
   - FEA
 tags:
   - secret
+  - setting
 ---
 Missione segreta del Ministero nota con l'acronimo **FEA**, con ampia partecipazione dei giovani agenti della [[Gioventù Proattiva del Partito|GPP]], andata tragicamente fallita.
 

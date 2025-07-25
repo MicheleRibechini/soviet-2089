@@ -1,7 +1,7 @@
 ---
-
 database-plugin: basic
-
+tags:
+  - secret
 ---
 
 ```yaml:dbfolder

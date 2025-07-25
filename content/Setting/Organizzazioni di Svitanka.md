@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 Nella [[Pentagrad Svitanka]] operano le seguenti organizzazioni
 
 | Nome (traduzione)                                                          | Breve descrizione (identità, obiettivo, valori, mezzi)                                                                                               | Leader (titolo e nome, origine, M/F)                                   | Membri tipici                                                                                       |

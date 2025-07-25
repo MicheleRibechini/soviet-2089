@@ -1,6 +1,8 @@
 ---
 Rank: "0"
 Power: 0
+tags:
+  - entity
 ---
 ![Image_Viktor.png](Image_Viktor.png)      
 

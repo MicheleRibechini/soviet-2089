@@ -2,19 +2,18 @@
 Rank: "3"
 Power: 9
 tags:
+  - entity
   - secret
 ---
-# Introduzione
-Uomo asiatico sulla quarantina, dall’aspetto trasandato e anonimo, conduce una vita solitaria e priva di ambizioni, impiegato in un lavoro umile e poco gratificante come una catena di fast food. Non ha famiglia, pochissimi conoscenti, e trascorre il tempo libero tra slot machine, pachinko e social network ormai superati, dove condivide vecchi meme e messaggi banali. Paranoico, copre la webcam per paura di essere spiato dal governo. A sua insaputa, è uno dei più letali sicari su commissione, attivato raramente per via dei suoi metodi cruenti e disturbanti. Il suo unico “amico” è in realtà il suo agente di controllo. Vive tra lunghi vuoti di memoria e una routine miserabile, iniziando lentamente a sospettare che qualcosa nella sua vita non torni.
+Nato nel 2045 (44 anni), ricondizionato nel 2079 (34 anni).
+
+Uomo asiatico dall’aspetto trasandato e anonimo, conduce una vita solitaria e priva di ambizioni, impiegato in un lavoro umile e poco gratificante come una catena di fast food. Non ha famiglia, pochissimi conoscenti, e trascorre il tempo libero tra slot machine, pachinko e social network ormai superati, dove condivide vecchi meme e messaggi banali. Paranoico, copre la webcam per paura di essere spiato dal governo. A sua insaputa, è uno dei più letali sicari su commissione, attivato raramente per via dei suoi metodi cruenti e disturbanti. Il suo unico “amico” è in realtà il suo agente di controllo. Vive tra lunghi vuoti di memoria e una routine miserabile, iniziando lentamente a sospettare che qualcosa nella sua vita non torni.
 
 ![[Image_Li.png]]
 
-### Segreti
-Ex agente del MSC, vendutosi come agente dormiente (a costo delle sue memorie) per salvare sua figlia da una rara malattia genetica. Ha moglie e figlia in un altra città. Non ha ricordi da quando ha 34 anni.
-
 ![[Image_Yanuo.png]]
 
-- Amico/agente di custodia: Ivan Kolpov. Grasso, sudato.
+- Amico/agente di custodia: Yakov Grigorev. Grasso, sudato.
 
 # Installazioni
 ## Addestramento e Potenziamenti di Base
@@ -74,3 +73,5 @@ Ex agente del MSC, vendutosi come agente dormiente (a costo delle sue memorie) p
 
 # Segreti
 FRASE DI ATTIVAZIONE: “Il Sole di mezzanotte non lascia ombre”.
+
+Ex agente del MSC, vendutosi come agente dormiente (a costo delle sue memorie) per salvare sua figlia da una rara malattia genetica. Ha moglie e figlia in un altra città. Non ha ricordi da quando ha 34 anni.

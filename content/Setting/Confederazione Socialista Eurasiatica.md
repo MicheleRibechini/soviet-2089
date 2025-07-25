@@ -3,6 +3,9 @@ aliases:
   - CSE
   - Confederazione
   - Blocco Rosso
+tags:
+  - setting
+  - entity
 ---
 La **Confederazione Socialista Eurasiatica (CSE)** è un'organizzazione intergovernativa ufficiosa composta dalle ex Repubbliche Sovietiche, dalla Cina, dai loro alleati e Paesi satelliti, fondata nel 1991 in seguito alla crisi politica sovietica. 
 

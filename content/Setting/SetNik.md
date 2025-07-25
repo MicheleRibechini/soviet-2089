@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 I **SetNik**, abbreviazione di Setevojnik (Сетевóйник), sono informatici specializzati nell'hacking che operano nella \[\[Confederazione Socialista Eurasiatica|Confederazione]].
 
 ## Carriera

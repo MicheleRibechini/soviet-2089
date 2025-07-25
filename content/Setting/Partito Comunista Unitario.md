@@ -3,6 +3,9 @@ aliases:
   - Partito
   - PCE
   - PCU
+tags:
+  - setting
+  - entity
 ---
 Il **Partito Comunista Unitario**, anche noto semplicemente come **Il Partito** o con le sue sigle PCU, PCE, è un'organizzazione politica di stampo comunista che riunisce e coordina i Partiti Comunisti delle Repubbliche Socialiste appartenenti alla [[Confederazione Socialista Eurasiatica]], di fatto governandola.
 

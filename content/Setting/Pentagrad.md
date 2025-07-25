@@ -1,6 +1,8 @@
 ---
 aliases:
   - Progetto Pentagrad
+tags:
+  - setting
 ---
 **Pentagrad** è il nome delle città-fortezze della [[Confederazione Socialista Eurasiatica]]. Immensi, densi e possenti agglomerati urbani dalla forma pentagonale, le Pentagrad sono fortemente militarizzate e sostenute da una prolifica industria pesante.
 

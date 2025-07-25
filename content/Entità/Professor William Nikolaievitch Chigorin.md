@@ -3,10 +3,11 @@ Rank: "3"
 Power: 9
 tags:
   - secret
+  - entity
 ---
 ![[Image_William_Nikolaievitch_Chigorin.jpg]]
 
-**William Nikolaievitch Chigorin** è un agente del [[Ministero della Sicurezza Confederale|Ministero]].
+**William Nikolaievitch Chigorin** è un agente del [[Ministero della Sicurezza Confederale|Ministero]]. Nato nel 2044 (45 anni).
 
 Figlio del celebre agente MSC [[Nikolai Ivanovich Chigorin]] e **Lady Catelyn Giffard-Glasbury**, terza figlia del Duca di Birmingham, William nasce e cresce in Inghilterra, seguendo un percorso educativo su modello dell'aristocrazia britannica.
 

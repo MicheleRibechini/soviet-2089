@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 Principale strumento dell'espressione della volontà popolare della [[Confederazione Socialista Eurasiatica|Confederazione]] è il KonMass (letteralmente Consultazione delle Masse) che prevede l'utilizzo della piattaforma [[SovSet]] per proporre dal basso modifiche alla struttura del CSE.
 
 > ###### Una Voce per le Masse

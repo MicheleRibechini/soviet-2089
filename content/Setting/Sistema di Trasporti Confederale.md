@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 ll **Sistema di Trasporti Confederale** (STC) è una complessa rete logistica che collega gli insediamenti dei Paesi [[Confederazione Socialista Eurasiatica|confederati]] e ne regola lo spostamento.
 
 In generale, gli sforzi del [[Partito Comunista Unitario#Il Congresso|Congresso]] stanno conducendo ad una sempre più diffusa riduzione del traffico tramite mezzi privati in favore del trasporto pubblico di massa, soprattutto in Cina, dove l'apertura al mercato di consumo ha visto un incremento nell'acquisto di automobili negli ultimi decenni. Nei Paesi slavi, invece, si sono condotti pesanti investimenti pubblici su sistemi di trasporto di massa, come treni, tramvie, autobus, navette, servizi taxi e noleggio mezzi per micromobilità.

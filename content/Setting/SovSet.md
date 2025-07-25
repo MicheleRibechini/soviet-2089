@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 **SovSet** è la rete chiusa della [[Confederazione Socialista Eurasiatica]], progettata come infrastruttura centrale per la vita amministrativa, economica e sociale dei cittadini. Integra una superapp ed ecosistema digitale che unifica servizi pubblici, finanza, comunicazione e gestione personale in un unico ambiente sicuro, automatizzato e controllato dal Partito.
 # Storia
 SovSet nasce come evoluzione del progetto [OGAS](https://it.wikipedia.org/wiki/OGAS), la storica rete sovietica di gestione informatica e pianificazione centralizzata. Nel 1992, OGAS viene formalmente chiusa per lasciare spazio a OGAS 2.0, un’iniziativa congiunta sino-sovietica ribattezzata nel 1995 **Hépíngwǎng** (和平网, “Rete della Pace”). Dopo anni di sviluppo, nel 2001 il sistema viene aperto a tutta la CSE, ma resta limitato a funzioni amministrative e industriali. Tra il 2001 e il 2017, il governo elabora una soluzione più centralizzata, capace di integrare ogni aspetto della vita del cittadino. 

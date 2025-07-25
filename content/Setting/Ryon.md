@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 Un **ryon** (район, pronuncia _raion_) è un distretto – o **settore** – in cui è suddivisa una [[Pentagrad]]. Ogni Pentagrad è organizzata in ryon specializzati, ciascuno con una funzione chiave per garantire la resilienza, l’efficienza e la vita sociale della città-fortezza. Al centro della Pentagrad si erge il [[#Giardino della Stella Rossa]], spesso considerato un distretto speciale a sé stante.
 ## Tipologie di ryon
 
