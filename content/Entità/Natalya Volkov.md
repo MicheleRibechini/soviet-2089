@@ -6,6 +6,7 @@ Rank: "3"
 Power: 9
 tags:
   - entity
+  - secret
 ---
 ### Identità
 **Nome**: Natalya Volkov ( )    
